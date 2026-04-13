@@ -31,12 +31,22 @@ The app detects when sensitive information is about to be spoken and analyzes th
 
 ## 📱 Screenshots
 
+<p align="center">
+  <img src="assets/sign_in.jpeg" width="200"/>
+  <img src="assets/sign_up.jpeg" width="200"/>
+  <img src="assets/home_page.jpeg" width="200"/>
+</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e254f3dd-5cf5-4dc3-970a-041505ddfce9
-" width="220"/>
-  <img src="assets/signup.png" width="220"/>
-  <img src="assets/home.png" width="220"/>
+  <img src="assets/home_page_after_permissions.jpeg" width="200"/>
+  <img src="assets/permissions.jpeg" width="200"/>
+  <img src="assets/history.jpeg" width="200"/>
+</p>
+
+<p align="center">
+  <img src="assets/sensitive_info_alert.jpeg" width="200"/>
+  <img src="assets/people_detected.jpeg" width="200"/>
+  <img src="assets/safe_no_one_around.jpeg" width="200"/>
 </p>
 
 ---
