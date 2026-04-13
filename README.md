@@ -38,8 +38,8 @@ The app detects when sensitive information is about to be spoken and analyzes th
 </p>
 
 <p align="center">
-  <img src="assets/home_page_after_permissions.jpeg" width="200"/>
-  <img src="assets/permissions.jpeg" width="200"/>
+  <img src="assets/home_page_after_permisions.jpeg" width="200"/>
+  <img src="assets/permisions.jpeg" width="200"/>
   <img src="assets/history.jpeg" width="200"/>
 </p>
 
