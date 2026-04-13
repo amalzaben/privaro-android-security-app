@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "672437586731",
+    "project_id": "privaro-69631",
+    "storage_bucket": "privaro-69631.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672437586731:android:11da3650f27e1e2905536e",
+        "android_client_info": {
+          "package_name": "com.example.privaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672437586731-bss4r7k307eskmjj1fprbbk5lb5811om.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.privaro",
+            "certificate_hash": "31e9b0a7827dd6b75e297d33c8298a17e9a6bf5c"
+          }
+        },
+        {
+          "client_id": "672437586731-ef6taf16ef8nn1h6g9u92tdfo99plknc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.privaro",
+            "certificate_hash": "c95e4fc7a3bfbdbafbde2222d9ec076c2cbe0ef4"
+          }
+        },
+        {
+          "client_id": "672437586731-d257q0omh05h53ccqf4lcf5toccg78rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfJbG9e7_QsZolAY_-GC9TYDpjbZMGcj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672437586731-d257q0omh05h53ccqf4lcf5toccg78rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

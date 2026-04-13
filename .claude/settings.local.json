@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs:*)",
+      "Bash(./gradlew assembleDebug:*)",
+      "Bash(curl:*)",
+      "Bash(JAVA_HOME=\"/Applications/Android Studio.app/Contents/jbr/Contents/Home\" ./gradlew:*)",
+      "Bash(/Users/aminahankoush/Library/Android/sdk/platform-tools/adb logcat -d)",
+      "Bash(keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android:*)",
+      "Bash(keytool:*)",
+      "Bash(/usr/libexec/java_home)",
+      "Bash(/usr/bin/java:*)",
+      "Bash(./gradlew signingReport:*)",
+      "Bash(/usr/libexec/java_home:*)",
+      "Bash(\"/Applications/Android Studio.app/Contents/jbr/Contents/Home/bin/keytool\" -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android)",
+      "Bash(ipconfig getifaddr:*)",
+      "Bash(java:*)",
+      "Bash(tree:*)"
+    ]
+  }
+}

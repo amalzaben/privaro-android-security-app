@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Privaro</string>
+
+    <!-- Accessibility Service -->
+    <string name="accessibility_service_label">Privaro Privacy Guard</string>
+    <string name="accessibility_service_description">Protects your privacy by warning you before sensitive information like passwords, OTPs, or bank details are read aloud. Optionally scans your surroundings for nearby people.</string>
+
+    <!-- Overlay prompts -->
+    <string name="prompt_sensitive_detected">Sensitive information detected</string>
+    <string name="prompt_continue">Continue</string>
+    <string name="prompt_check_surroundings">Check Surroundings</string>
+    <string name="prompt_cancel">Cancel</string>
+
+    <!-- Scan results -->
+    <string name="scan_in_progress">Scanning surroundings</string>
+    <string name="scan_people_detected">%d people detected nearby</string>
+    <string name="scan_one_person_detected">1 person detected nearby</string>
+    <string name="scan_no_people">No one detected nearby. Safe to proceed.</string>
+    <string name="scan_continue_anyway">Continue Anyway</string>
+    <string name="scan_people_behind">People detected behind you</string>
+    <string name="scan_people_front">People detected in front of you</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_sensitivity">Detection Sensitivity</string>
+    <string name="sensitivity_high">High - All sensitive data</string>
+    <string name="sensitivity_medium">Medium - Passwords and OTPs</string>
+    <string name="sensitivity_low">Low - Passwords only</string>
+
+    <!-- Permissions -->
+    <string name="permission_camera_title">Camera Permission Required</string>
+    <string name="permission_camera_description">Privaro needs camera access to scan your surroundings for nearby people when you access sensitive information.</string>
+    <string name="permission_overlay_title">Overlay Permission Required</string>
+    <string name="permission_overlay_description">Privaro needs to display prompts over other apps to warn you before sensitive information is read.</string>
+    <string name="permission_accessibility_title">Accessibility Service Required</string>
+    <string name="permission_accessibility_description">Privaro needs accessibility access to detect when sensitive information is about to be read by TalkBack.</string>
+    <string name="grant_permission">Grant Permission</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Welcome to Privaro</string>
+    <string name="onboarding_description">Your privacy guardian that protects sensitive information from being overheard.</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_finish">Get Started</string>
+
+    <!-- Authentication -->
+    <string name="auth_sign_in">Sign In</string>
+    <string name="auth_sign_up">Sign Up</string>
+    <string name="auth_email">Email</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_welcome_back">Welcome Back to</string>
+    <string name="auth_start_with">Start with</string>
+    <string name="auth_enter_credentials">Sign in to your account</string>
+    <string name="auth_forgot_password">Forgot Password?</string>
+    <string name="auth_or">Or</string>
+    <string name="auth_sign_in_google">Sign in with Google</string>
+    <string name="auth_sign_up_google">Sign up with Google</string>
+    <string name="auth_agree_terms">I agree to the terms &amp; policy</string>
+    <string name="auth_error_email_required">Email is required</string>
+    <string name="auth_error_email_invalid">Please enter a valid email</string>
+    <string name="auth_error_password_required">Password is required</string>
+    <string name="auth_error_password_short">Password must be at least 6 characters</string>
+    <string name="auth_error_terms_required">You must agree to the terms &amp; policy</string>
+    <string name="auth_error_generic">Authentication failed. Please try again.</string>
+
+    <!-- Firebase Configuration -->
+    <string name="default_web_client_id">672437586731-d257q0omh05h53ccqf4lcf5toccg78rl.apps.googleusercontent.com</string>
+</resources>
